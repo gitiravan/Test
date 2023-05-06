@@ -2,6 +2,7 @@
 
 
 // انواع خروجی انواع
+// انواع خروجی انواع
 
 // document.getElementById("output").innerHTML = 10;
 // document.write(9);
